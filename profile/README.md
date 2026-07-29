@@ -35,6 +35,11 @@ see exactly how they were made.
   [Try it](https://sciscend.github.io/meme-collagen/). Written by an AI agent from four
   prompts in a single session; the README shows the numbers.
 
+- **[antigravity-scribe](https://github.com/SciScend/antigravity-scribe)** — a VS Code
+  extension that captures an agent session from the Antigravity IDE — chat turns, thinking
+  blocks, tool calls — into an Obsidian vault as structured Markdown. For anyone who wants a
+  durable record of what their agents actually did.
+
 ## Who
 
 SciScend is run by **Iva Popova** — trainer in Python, machine learning and front-end
