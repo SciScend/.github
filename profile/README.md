@@ -1,4 +1,4 @@
-<h1 align="center">SciScend</h1>
+<h1 align="center"><a href="https://sciscend.com/">SciScend</a></h1>
 
 <p align="center">
   <b>Training, tools and research at the practical end of AI.</b><br>
@@ -42,7 +42,8 @@ see exactly how they were made.
 
 ## Who
 
-SciScend is run by **Iva Popova** — trainer in Python, machine learning and front-end
+[SciScend](https://sciscend.com/) is run by **Iva Popova** — trainer in Python, machine
+learning and front-end
 development since 2015, software engineer since 2002, and a former assistant professor of AI
 and programming languages at the Technical University of Sofia. Doctoral research in AI
 systems: semantic retrieval, ontologies and NLP.
