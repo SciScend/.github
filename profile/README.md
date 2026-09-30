@@ -58,16 +58,12 @@ see exactly how they were made.
   [SciScend blog](https://sciscend.com/blog/): practical AI, Python and ML, in Bulgarian.
   A static Astro site.
 
-## Who
+## Founder
 
-[SciScend](https://sciscend.com/) is run by **Iva Popova** — trainer in Python, machine
-learning and front-end
-development since 2015, software engineer since 2002, and a former assistant professor of AI
-and programming languages at the Technical University of Sofia. Doctoral research in AI
-systems: semantic retrieval, ontologies and NLP.
-
-The company is deliberately one person plus a lot of automation. The repositories here are
-part of the argument that this is now enough.
+[SciScend](https://sciscend.com/) was founded by **Iva Popova** - trainer in Python, machine
+learning and front-end development since 2015, software engineer since 2002, and a former
+assistant professor of AI and programming languages at the Technical University of Sofia.
+Doctoral research in AI systems: semantic retrieval, ontologies and NLP.
 
 ## Contact
 
