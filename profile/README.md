@@ -28,35 +28,12 @@ knowledge graphs.
 ## What's here
 
 Public tools and demonstrations, most of them built with AI agents and documented so you can
-see exactly how they were made.
+see exactly how they were made: local-first AI tools that keep your data on your machine,
+experiments with models on Bulgarian text, ready-to-use templates for small businesses, and
+tooling for working with coding agents.
 
-- **[antigravity-scribe](https://github.com/SciScend/antigravity-scribe)** - a VS Code
-  extension that captures an agent session from the Antigravity IDE - chat turns, thinking
-  blocks, tool calls - into an Obsidian vault as structured Markdown. For anyone who wants a
-  durable record of what their agents actually did.
-
-- **[StorageBoxOrganizer](https://github.com/SciScend/StorageBoxOrganizer)** - find anything
-  in your storage boxes: photos, tags, fuzzy search and QR labels, as a web app, an installable
-  PWA and an Android app. [See what it does](https://sciscend.github.io/StorageBoxOrganizer/).
-  Built and maintained by AI agents across hundreds of commits, with conventional commits and
-  automated releases.
-
-- **[meme-collagen](https://github.com/SciScend/meme-collagen)** - a browser meme and collage
-  editor with no dependencies, no build step and no server.
-  [Try it](https://sciscend.github.io/meme-collagen/). Written by an AI agent from four
-  prompts in a single session; the README shows the numbers.
-
-- **[ebook-library-organizer](https://github.com/SciScend/ebook-library-organizer)** - point
-  it at a folder of e-books and it categorises them, indexes them for meaning-based search and
-  finds the books you own twice. Runs entirely locally: no API key, no cloud service.
-
-- **[system-one-categorizer-demo](https://github.com/SciScend/system-one-categorizer-demo)** -
-  a side-by-side test of two *System One* models on Bulgarian text: they suggest a category
-  for a blog post. The closed Jev got 48/50 right, the open Laya 36/50, running locally on CPU.
-
-- **[sciscend-blog](https://github.com/SciScend/sciscend-blog)** - the source of the
-  [SciScend blog](https://sciscend.com/blog/): practical AI, Python and ML, in Bulgarian.
-  A static Astro site.
+The pinned repositories below are a good place to start. The full list, with the story behind
+each project, is in the [project portfolio](https://sciscend.com/ivapopova/projects/).
 
 ## Founder
 
