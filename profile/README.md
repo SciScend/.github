@@ -35,13 +35,6 @@ tooling for working with coding agents.
 The pinned repositories below are a good place to start. The full list, with the story behind
 each project, is in the [project portfolio](https://sciscend.com/ivapopova/projects/).
 
-## Founder
-
-[SciScend](https://sciscend.com/) was founded by **Iva Popova** - trainer in Python, machine
-learning and front-end development since 2015, software engineer since 2002, and a former
-assistant professor of AI and programming languages at the Technical University of Sofia.
-Doctoral research in AI systems: semantic retrieval, ontologies and NLP.
-
 ## Contact
 
 Courses, consulting or collaboration — <https://sciscend.com>
